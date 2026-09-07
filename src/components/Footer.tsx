@@ -380,27 +380,6 @@ export const Footer: React.FC = () => {
 
                 </div>
 
-
-                <span
-                  className="
-                    inline-flex
-                    items-center
-                    gap-1.5
-                    text-[10px]
-                    font-bold
-                    px-2.5
-                    py-0.5
-                    rounded-full
-                    bg-[#1C3B2B]
-                    text-[#6BBF8C]
-                    border
-                    border-[#2B5640]
-                  "
-                >
-                  <span className="w-1.5 h-1.5 rounded-full bg-[#6BBF8C] animate-pulse" />
-                  Abierto
-                </span>
-
               </div>
 
 
