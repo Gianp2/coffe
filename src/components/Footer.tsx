@@ -194,20 +194,6 @@ export const Footer: React.FC = () => {
           </div>
 
 
-          <p
-            className="
-              text-xs
-              leading-relaxed
-              text-[#B8A696]
-              max-w-md
-              mx-auto
-              pt-1
-            "
-          >
-            Seleccionamos microlotes de café de altura tostados semanalmente
-            y horneamos a diario piezas de masa madre y pastelería artesanal.
-          </p>
-
         </div>
 
 
@@ -630,15 +616,6 @@ export const Footer: React.FC = () => {
           <p className="text-xs font-medium text-[#C2B2A3]">
 
             {settings.name} • Carta Digital de Salón y Take-Away
-
-          </p>
-
-
-
-          <p className="text-[10px] text-[#806E61]">
-
-            Precios expresados en moneda nacional argentina con IVA incluido.
-            Prohibida su venta a menores de 18 años para bebidas con alcohol.
 
           </p>
 
